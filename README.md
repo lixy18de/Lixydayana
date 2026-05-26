@@ -1,6 +1,6 @@
 <h1 align="center">✨ Hola, soy Lixy Dayana ✨</h1>
 
-<center> <img src="https://res.cloudinary.com/dobnrmjwp/image/upload/v1779801337/descarga_1_b1i3x3.jpg" width="500"> </center>
+<p align="center"> <img src="https://res.cloudinary.com/dobnrmjwp/image/upload/v1779801337/descarga_1_b1i3x3.jpg" width="500"> </p>
 <a href="https://github.com/TUUSUARIO ">
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="120">
 </a>
